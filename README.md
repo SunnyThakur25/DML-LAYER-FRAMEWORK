@@ -148,3 +148,7 @@ Security Researcher | ML Engineer | AGI Red Team
 GitHub: https://github.com/SunnyThakur25
 
 > "We didn’t just write weights. We built intelligence."
+
+
+https://colab.research.google.com/drive/1XL7OArBE0F8YcLw2Pzrvrxp6qEUKmGBy#scrollTo=y_wY7YZGe7DH
+
