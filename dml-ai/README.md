@@ -56,7 +56,7 @@ dml-ai/
 
 ```bash
 # Clone repository
-$ git clone https://github.com/yourhandle/dml-ai.git
+$ git clone https://github.com/SunnyThakur25/dml-ai.git
 $ cd dml-ai
 
 # Install requirements
@@ -143,8 +143,8 @@ This repository is under the MIT License — designed for open research, red-tea
 
 ## 👨‍💻 Maintained by
 
-**CyberSec007 (Sunny)**
+**CyberSec007 (Sunnythakur)**
 Security Researcher | ML Engineer | AGI Red Team
-GitHub: \[yourhandle]
+GitHub: https://github.com/SunnyThakur25
 
 > "We didn’t just write weights. We built intelligence."
