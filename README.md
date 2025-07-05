@@ -56,7 +56,7 @@ dml-ai/
 
 ```bash
 # Clone repository
-$ git clone https://github.com/SunnyThakur25/dml-ai.git
+$ git clone https://github.com/SunnyThakur25/DML-LAYER-FRAMEWORK
 $ cd dml-ai
 
 # Install requirements
